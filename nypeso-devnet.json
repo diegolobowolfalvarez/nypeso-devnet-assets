@@ -1,0 +1,30 @@
+{
+  "name": "New York Peso Devnet",
+  "symbol": "NYPESO",
+  "description": "New York Peso ($NYPESO): the first Solana Devnet token milestone of AI Influencer Empire Production Studio. Test token only; no monetary value, no trading launch, and no claim of government affiliation, legal-tender status, price stability, or redemption.",
+  "image": "https://raw.githubusercontent.com/diegolobowolfalvarez/nypeso-devnet-assets/main/nypeso-silver.png",
+  "external_url": "https://newyorkpeso.com",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    },
+    {
+      "trait_type": "Studio",
+      "value": "AI Influencer Empire Production Studio"
+    },
+    {
+      "trait_type": "Milestone",
+      "value": "First test token"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/diegolobowolfalvarez/nypeso-devnet-assets/main/nypeso-silver.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
